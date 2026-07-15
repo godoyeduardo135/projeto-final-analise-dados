@@ -39,7 +39,7 @@ def prever():
             "num_revisoes":[dados["num_revisoes"]]
         })
         preco = modelo.predict(carro)[0]
-        return jsonify({"preco":round(float(preco),2)})
+        return jsonify({"Preço":round(float(preco),2)})
    
     except Exception as erro:
         return jsonify({
