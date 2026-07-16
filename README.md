@@ -123,3 +123,7 @@ E como variável alvo (target):
 
 **Eduardo Godoy**
 [Linkedin - Eduardo Godoy](https://www.linkedin.com/in/eduardo-godoy-b73615272/)
+
+## Licença
+
+Este repositório é de uso educacional, desenvolvido no contexto do curso de Fundamentos de IA e Análise de Dados.
